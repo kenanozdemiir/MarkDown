@@ -2,7 +2,11 @@
 
 Markdown denemesi
 
-![image-20210612142245777](C:\Users\kenan\AppData\Roaming\Typora\typora-user-images\image-20210612142245777.png)
+![Örnek](https://ibb.co/BTs09Jv)
+
+
+
+
 
 
 
