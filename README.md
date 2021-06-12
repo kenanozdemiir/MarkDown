@@ -2,9 +2,7 @@
 
 Markdown denemesi
 
-![Örnek](https://ibb.co/BTs09Jv)
-
-
+![Image](https://github.com/kenanozdemiir/MarkDown/blob/main/image/image.png?raw=true)
 
 
 
